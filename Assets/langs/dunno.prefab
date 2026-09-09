@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3824205096489363730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5627378049844901700}
+  - component: {fileID: 5373608847604179135}
+  m_Layer: 0
+  m_Name: dunno
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5627378049844901700
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3824205096489363730}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.597832, y: 10.66863, z: 0.7778595}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5373608847604179135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3824205096489363730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 726adf4837c0eb64dbb2b5cc0912e65b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: english
+  flag: {fileID: 0}
+  lore_text:
+  - though there are many theories, myths and legends on the true nature of <color=#1B0035>somatic
+    thaumaturgy</color> no answer has yet to be decisive and wholly conclusive, the
+    <color=#516134>monks of ajensveria</color> say its the key to ascending beyond
+    the mortal shell, the <color=#633535>painters of rionosku</color> say it exacts
+    the users essence upon the world, some yet cling to logic and science saying
+    it can all be understood and explained.
+  - the only fact known for sure is that by casting <color=#1B0035>symbols</color>
+    with ones own body they can force powerful effects upon reality, the price of
+    this cast it to momentarily expose oneself to <color=#1B0035>powers beyond human
+    reckoning</color>, and as such the body is warped to fit new purpose, bones duplicate
+    and offset, the body shifts such requiring that the user <color=#294c6e>inevitibly
+    abandons the warped path to adopt new skin.</color>
+  - '- <color=#294c6e>arlys brightover, scholar of the arts, high principator of
+    ordoniss</color>'
+  - when one casts using <color=#1B0035>som thaum</color> they briefly escape reality.
+    it is here that beings of great power exist who through curiosity or great mistake
+    will "dissasemble" the <color=#1B0035>acolyte</color>, these beings are not malicious
+    though and will reasemble the individual to working order, though their inhumanity
+    leads to imperfections and "warpings"
+  - <color=#022240> - jozzo the kind</color>
+  - <color=#1B0035>hexecraft</color>, as defined by <color=#322E21>me</color> is
+    the illogical extension of applied sciences as we know it, among all the forms
+    it can take there is one similarity, patterns. by creating a specific shape through
+    a medium you can cause an <color=#1B0035>effect</color>. perhaps with more understanding
+    <color=#1B0035>som thaum</color> could be performed without the use of the body,
+    though <color=#322E21>i</color> wonder what it would be called then.
+  - <color=#322E21> - samuel somatathon </color>
+  - <color=#1B0035>best record (so far)</color>
+  - '<color=#1B0035>least spells cast : </color>'
+  - '<color=#1B0035>time : </color>'
+  info_text:
+  - in spite of <color=#022240>their</color> prowess in <color=#1B0035>hexes</color>
+    <color=#022240>jozzo</color> has no method to directly harm  <color=#322E21>me</color>,
+    that doesnt make them a pacifist in spite of <color=#022240>their</color> title
+    as  <color=#022240>jozzo</color> has summoned <color=#39342E>maurice</color>
+    to this place.
+  - <color=#022240>jozzo the kind</color> has secluded <color=#022240>theirselves</color>
+    behind door 783
+  - in spite of <color=#322E21>my</color> attempts to aproach on foot <color=#022240>jozzo's</color>
+    <color=#1B0035>casting</color> will always push <color=#322E21>me</color> further
+    away from <color=#322E21>my</color> goal and closer towards <color=#39342E>maurice</color>.
+  - <color=#322E21>i</color> have fashioned a simple  totem to aid in my travels,
+    <color=#322E21>i</color> find the process of crafting these <color=#1B0035>effigies</color>
+    quite thereputic. if memory serves [R] should place and recall.
+  - <color=#022240>jozzo</color> had the forthought to place a <color=#1B0035>hex</color>
+    to bar <color=#322E21>my</color> <color=#1B0035>hexes</color>, <color=#322E21>i</color>
+    cannot directly move to 783 while it remains, <color=#322E21>i</color> can feel
+    it at Z
+  - <color=#022240>jozzo</color> crafted this space to trap the both of <color=#322E21>i</color>,and
+    while <color=#022240>its</color> <color=#1B0035>hexecraft</color> is highly polished
+    this space is poorly concieved.
+  - beyond doors 0 and 999 lies the periphery, <color=#39342E>maurice</color> seems
+    to always lurk there.
+  cast_text:
+  - '<color=#1B0035>CAST</color> :  core component to my strongest spells'
+  - '<color=#1B0035>EXPULSE</color> : moves target away from <color=#322E21>me</color>'
+  - '<color=#1B0035>MEND</color> : mends space betwixt targets'
+  - '<color=#1B0035>TOTEM</color> : old reliable, great grocery shopping'
+  - '<color=#1B0035>LOOP</color> : i trapped somone in a <color=#1B0035>loop</color>
+    once, dont think i ever let them out'
+  - '<color=#1B0035>CLEAVE</color> : cleaves space, doesnt work great on parma ham'
+  - '<color=#1B0035>DOOR</color> : 235 wish it picked a closer door.'
+  - '<color=#1B0035>CONVERGE</color> : only use of smooth surfaces, you do not want
+    trip'
+  - '<color=#39342E>MAURICE</color> : dont know why <color=#322E21>i</color> know
+    <color=#39342E>it''s</color> name'
+  - '<color=#022240>DOOR 783</color> : <color=#322E21>my</color> goal, <color=#022240>jozzo</color>
+    will never let <color=#322E21>me</color> close.'
+  - '<color=#1B0035>DECIMATE</color> : remember to stand far away from target.'
+  - <color=#1B0035>hexes</color> are cast with [space] requires a component marked        
+    or         .
+  - '<color=#322E21>SAM</color> : thats <color=#322E21>me</color> baby!'
+  - '<color=#1B0035>DOWN</color> : solution to a <color=#022240>kind</color> problem,
+    use on targets to resolve with ease'
+  - '<color=#1B0035>REVERSE</color> : remember to check what way you are facing'
+  - '<color=#1B0035>IMPULSE</color> : great for getting around'
+  Lcast_text:
+  - '<color=#1B0035>CAST</color> :  core component to my strongest spells'
+  - '<color=#1B0035>EXPULSE</color> : moves target away from <color=#322E21>me</color>'
+  - '<color=#1B0035>MEND</color> : mends space betwixt targets'
+  - '<color=#1B0035>TOTEM</color> : old reliable, great grocery shopping'
+  - '<color=#1B0035>LOOP</color> : i trapped somone in a <color=#1B0035>loop</color>
+    once, dont think i ever let them out'
+  - '<color=#1B0035>CLEAVE</color> : cleaves space, doesnt work great on parma ham'
+  - '<color=#1B0035>DOOR</color> : 235 wish it picked a closer door.'
+  - '<color=#1B0035>CONVERGE</color> : only use of smooth surfaces, you do not want
+    trip'
+  - simple component for <color=#322E21>my</color> most powerful <color=#1B0035>hex</color>,
+    its belligerant and only cooperates with the correct marked components.
+  - pushes target 311.6154m  (200 doors) from <color=#322E21>user</color>. caution
+    should be applied to not target <color=#322E21>self</color>.
+  - <color=#1B0035>mends</color> space, great for repairing damage dealt by <color=#1B0035>cleave</color>,
+    elsewise it will make new space between <color=#322E21>user</color> and target.
+  - some <color=#1B0035>hexists</color> would have you believe that an <color=#1B0035>effigy</color>
+    requires shiny materials and precise chants but sticks and twine always worked
+    for <color=#322E21>me</color>.
+  - forms a <color=#1B0035>loop</color> at target, each target can only sustain one
+    <color=#1B0035>loop</color>. upon making a second relative <color=#1B0035>loop</color>
+    it will either collapse both <color=#1B0035>loops</color> or bridge 2 already
+    present <color=#1B0035>loops</color>.
+  - <color=#1B0035>cleaves</color> space between target and <color=#322E21>user</color>,
+    pulling them closer. most effective at longer distances.
+  - the logic behind what objects or effects the <color=#1B0035>hex</color> shall
+    choose is not well understood by many, to some its random but there is a pattern.
+  - pulls target and <color=#322E21>user</color> closer together. makes <color=#322E21>me</color>
+    glad to have 3 stable legs to stay upright.
+  Rcast_text:
+  - ephemeral entity on the cusp of existence, due to <color=#39342E>it's</color>
+    nature i cannot be certain where <color=#39342E>it</color> is at any time.
+  - <color=#022240>jozzo</color> is a potent caster, but <color=#322E21>i'm</color>
+    much faster. <color=#322E21>my</color> spells can bring <color=#322E21>me</color>
+    closer to <color=#022240>it</color> than my legs ever could.
+  - explells an area of space around the target, space is added to edge of realm
+    shortly after.
+  - for a succesful <color=#1B0035>hex</color> <color=#322E21>i</color> need an effect
+    [    ] and a target [   ], noted to each spell is the fingers needed to be curled
+    to cast it.
+  - <color=#322E21>i</color> never liked the fact that <color=#322E21>my</color>
+    essence could be boiled down and effected by just one finger
+  - combine with components marked [    ], resolves target, great for removing stains.
+  - flips targets position to opposite end of the realm. makes me dizzy every time.
+  - pulls <color=#322E21>user</color> (thats <color=#322E21>me</color>) toward target
+    by 137.3124m (100 doors)
+  - '<color=#39342E>MAURICE</color> : dont know why i know <color=#39342E>it''s</color>
+    name'
+  - '<color=#001021>DOOR 783</color> : <color=#322E21>my</color> goal, <color=#001021>jozzo</color>
+    will never let <color=#322E21>me</color> close.'
+  - '<color=#1B0035>DECIMATE</color> : remember to stand far away from target.'
+  - <color=#1B0035>hexes</color> are cast with [space] requires a component marked        
+    or         .
+  - '<color=#322E21>SAM</color> : thats <color=#322E21>me</color> baby!'
+  - '<color=#1B0035>DOWN</color> : solution to a <color=#022240>kind</color> problem,
+    use on targets to resolve with ease'
+  - '<color=#1B0035>REVERSE</color> : remember to check what way you are facing'
+  - '<color=#1B0035>IMPULSE</color> : great for getting around'
+  up_info_text:
+  - for a <color=#1B0035>hexist</color> to cast a <color=#1B0035>hex</color> via
+    <color=#1B0035>somatic thaumaturgy</color> they need to form a correct symbols,
+    for <color=#322E21>me</color> that means aligning <color=#322E21>my</color> fingers
+    to cast the correct <color=#1B0035>hexes</color>
+  - to articulate <color=#322E21>my</color> fingers [lmb] and [rmb] are needed with
+    the <color=#1B0035>cast</color> itself being [space]
+  - <color=#1B0035>casting</color> comes with a 'cost' as many put it and while the
+    warping has certainly effected <color=#322E21>me, my</color> body remains perfectly
+    functional though strange new functions seem to brew,
+  - every time <color=#322E21>i</color> clap <color=#322E21>my</color> hands <color=#322E21>my</color>
+    fingers seem to swap.
+  - <color=#39342E>maurice</color> is relentless in its pursuit, <color=#39342E>it's</color>
+    goal seems solely to hunt though <color=#322E21>i</color> find that hard to believe,
+    if <color=#39342E>it</color> draws too close <color=#322E21>i</color> should
+    <color=#1B0035>cast</color>, the reforming of reality should dispell <color=#39342E>it</color>
+    for a moment. or if <color=#322E21>i</color> draw it close to <color=#022240>jozzo,
+    they</color> shall do it for <color=#322E21>me</color>.
+  - <color=#022240>jozzo</color> will make moves depending on my actions, if <color=#322E21>i</color>
+    approach <color=#322E21>i</color> am moved away, if <color=#322E21>i</color>
+    am away from <color=#39342E>maurice then maurice</color> is moved closer, if
+    <color=#322E21>i</color> aproach the <color=#1B0035>hex</color> is moved elsewhere.
+  - some feel <color=#022240>jozzo's</color>  chosen title "the kind" is of a strange
+    sort considering past actions though none have ever seen <color=#022240>them</color>
+    render personal harm.
+  menu_text:
+  - 'master audio : '
+  - 'ambient audio : '
+  - 'player audio : '
+  - 'language : '
+  - master audio
+  - ambient audio
+  - quit
+  - player audio
+  - language
+  - this book is intelectual property of <color=#294c6e>arlys brightover</color>,
+    any who do not pay heed and aquire this work from a legal retailer will be subjected
+    to <color=#1B0035>CAST</color>hexes and curses<color> alike.
+  options:
+  - <color=#464646>NONE</color>
+  - <color=#a8e61d>low</color>
+  - <color=#ff7e00>medium</color>
+  - <color=#ed1c24>high</color>
+  - <color=#990030>max</color>
+  beginning_text:
+  - jozzo has trapped me in this space
+  - jozzo is hiding at door 783
+  - i get the feeling i could view my tome with [TAB]
+  - that was good
+  - but i can do it faster!
+  book_text:
+  - i get the feeling i can move between pages with [lmb] and [rmb]
+  - wonder if the warrenty was ever voided on this tome
+  - old reliable, wouldnt be able to keep my spells without it
+  - wonder if ill ever run out of pages
+  caution_text:
+  - i get the feeling i dont want to do that
+  - i dont think i would like the outcome
+  - thats inadvisable
+  - i dont want to do that
+  idle_text:
+  - wonder where maurice is now
+  - wonder whats going on below
+  - airs a bit stale in here
+  - wonder if its ever going to get worse
+  - i dont even know if i can warp any further
+  - craving burritos right now
+  - wonder if "the kind" is their last name?
+  - makes me miss home... scratch that this place is better
+  casting_text:
+  - casting always gives me a buzz, in a bad way that is.
+  - think i saw a face that time.
+  - wonder if i am actually getting any closer
+  - bet jozzo doesnt know that one!
+  - dread to think what spells michael has...
+  - hexes without calculation
+  interact_text:
+  - its a door
+  - not this one
+  - dont like this door... for some reason
+  - some good quality wood? on this door
+  - stamped sheet metal? cheapskates...
+  - i need to find 783
+  end_text:
+  - i have finally reached you
+  - not much to say for yourself?
+  - maybe you arent able to talk
+  - 'i need to CAST : DOWN to kill jozzo'
+  - this is why i hate wizards
+  - 'i need to CAST : DOWN to kill jozzo'
+  - maybe you arent able to talk
+  - not much to say for yourself?
+  - i have finally reached you
+  - i have finally reached you
+  - not much to say for yourself?
+  - maybe you arent able to talk
+  - 'i need to CAST : DOWN to kill jozzo'
+  - this is why i hate wizards
+  - this is why i hate wizards
+  - jozzo the kind, evil fuckass wizard (legal name) i will strike you down!
+  cast_down_text:
+  - i need to destroy that
+  - 'i should CAST : DOWN'
+  - 'CAST : DOWN would be best'
+  - 'i need to CAST : DOWN quickly'
+  maurice_text:
+  - i need to cast to get out of here before maurice arrives
+  - i wont let you get me this time!
+  - i need to get out of here
+  - maurice aproaches
+  - you really are persistent maurice
