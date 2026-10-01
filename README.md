@@ -1,4 +1,5 @@
-unity game project _name from _year (_state). _description
+unity game project somatathon from 2025 (completed and published). somatathon is a first person puzzle game where the player casts spells using their
+fingers in an attampt to reach door 
 
 requirements :
   - OS that can run unity editor.
